@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+    <error file="D:\SVN\commandTest\AkiLibProject\cpp\MQOFile.cpp" line="27" id="variableScope" severity="style" msg="The scope of the variable &apos;temp&apos; can be reduced."/>
+    <error file="D:\SVN\commandTest\AkiLibProject\cpp\MQOFile.cpp" line="28" id="variableScope" severity="style" msg="The scope of the variable &apos;tempNum&apos; can be reduced."/>
+    <error file="D:\SVN\commandTest\TestProject\Main.cpp" line="74" id="unusedFunction" severity="style" msg="The function &apos;MinUpdate&apos; is never used."/>
+    <error file="D:\SVN\commandTest\TestProject\Main.cpp" line="147" id="unusedFunction" severity="style" msg="The function &apos;TestFunc&apos; is never used."/>
+    <error file="D:\SVN\commandTest\ModelTest\Main.cpp" line="74" id="unusedFunction" severity="style" msg="The function &apos;_tWinMain&apos; is never used."/>
+    <error id="missingInclude" severity="style" msg="Cppcheck cannot find all the include files (use --check-config for details)"/>
+</results>
